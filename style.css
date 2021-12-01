@@ -7,7 +7,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* background: #000; */
+    background: #222
 }
 .circle{
     display: block;
